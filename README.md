@@ -1,4 +1,4 @@
-huaweicloud-asr-java-sdk-ext
+huaweicloud--java-sdk-ext
 =
 
 ## 概述
