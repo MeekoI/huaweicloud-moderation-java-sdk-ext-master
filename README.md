@@ -1,4 +1,4 @@
-huaweicloud--java-sdk-ext
+huaweicloud-moderation-java-sdk-ext-master
 =
 
 ## 概述
